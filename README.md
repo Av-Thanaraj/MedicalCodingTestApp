@@ -1,2 +1,4 @@
 # MedicalCodingTestApp
  Medical Coding AI web application (uses NLP)
+
+The automatic processing of medical information is based on the collection of clinical data relating to hospital stays of patients. As a result, considerable efforts have been made to construct the terminological resources used to express these data in coded form, similar to the International Classification of Disease and  General Nomenclature of Professional Acts. However, despite the increasing use of these terminologies, natural language remains the privileged vector of information and medical knowledge. From hospital reports to diagnostic and therapeutic protocols, the text is omnipresent. A medical coding support system is a system that analyzes medical documents and produces the appropriate codes according to the sentences and terms mentioned on these documents
